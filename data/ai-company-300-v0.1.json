@@ -1,0 +1,223 @@
+[
+  {
+    "companyName": "OpenAI",
+    "englishName": "OpenAI",
+    "countryOrRegion": "United States",
+    "category": "基础模型与AI应用",
+    "coreProduct": "ChatGPT",
+    "researchStatus": "观察对象",
+    "updatedAt": "2026-06-03",
+    "officialWebsite": "",
+    "xiangbeiJudgment": "观察其如何把基础模型能力转化为大众产品和开发者生态。"
+  },
+  {
+    "companyName": "DeepSeek",
+    "englishName": "DeepSeek",
+    "countryOrRegion": "China",
+    "category": "基础模型",
+    "coreProduct": "DeepSeek",
+    "researchStatus": "观察对象",
+    "updatedAt": "2026-06-03",
+    "officialWebsite": "",
+    "xiangbeiJudgment": "观察其对模型效率、开源生态和中国AI产业叙事的影响。"
+  },
+  {
+    "companyName": "Anthropic",
+    "englishName": "Anthropic",
+    "countryOrRegion": "United States",
+    "category": "基础模型与AI助手",
+    "coreProduct": "Claude",
+    "researchStatus": "观察对象",
+    "updatedAt": "2026-06-03",
+    "officialWebsite": "",
+    "xiangbeiJudgment": "观察其围绕安全、企业场景和助手产品形成的差异化路径。"
+  },
+  {
+    "companyName": "Perplexity",
+    "englishName": "Perplexity",
+    "countryOrRegion": "United States",
+    "category": "AI搜索",
+    "coreProduct": "Perplexity",
+    "researchStatus": "观察对象",
+    "updatedAt": "2026-06-03",
+    "officialWebsite": "",
+    "xiangbeiJudgment": "观察其如何重构信息检索、答案生成和引用来源之间的关系。"
+  },
+  {
+    "companyName": "Anysphere / Cursor",
+    "englishName": "Anysphere / Cursor",
+    "countryOrRegion": "United States",
+    "category": "AI开发者工具",
+    "coreProduct": "Cursor",
+    "researchStatus": "观察对象",
+    "updatedAt": "2026-06-03",
+    "officialWebsite": "",
+    "xiangbeiJudgment": "观察其如何把AI能力嵌入软件开发流程。"
+  },
+  {
+    "companyName": "Midjourney",
+    "englishName": "Midjourney",
+    "countryOrRegion": "United States",
+    "category": "AI图像生成",
+    "coreProduct": "Midjourney",
+    "researchStatus": "观察对象",
+    "updatedAt": "2026-06-03",
+    "officialWebsite": "",
+    "xiangbeiJudgment": "观察其在视觉创作工具和创作者工作流中的位置。"
+  },
+  {
+    "companyName": "Runway",
+    "englishName": "Runway",
+    "countryOrRegion": "United States",
+    "category": "AI视频生成",
+    "coreProduct": "Runway",
+    "researchStatus": "观察对象",
+    "updatedAt": "2026-06-03",
+    "officialWebsite": "",
+    "xiangbeiJudgment": "观察其对视频生产流程和创意工具链的影响。"
+  },
+  {
+    "companyName": "MiniMax",
+    "englishName": "MiniMax",
+    "countryOrRegion": "China",
+    "category": "基础模型与AI应用",
+    "coreProduct": "MiniMax",
+    "researchStatus": "观察对象",
+    "updatedAt": "2026-06-03",
+    "officialWebsite": "",
+    "xiangbeiJudgment": "观察其在中国AI应用和多模态方向中的产品化路径。"
+  },
+  {
+    "companyName": "月之暗面",
+    "englishName": "Moonshot AI",
+    "countryOrRegion": "China",
+    "category": "基础模型与AI助手",
+    "coreProduct": "Kimi",
+    "researchStatus": "观察对象",
+    "updatedAt": "2026-06-03",
+    "officialWebsite": "",
+    "xiangbeiJudgment": "观察其在长文本、AI助手和中文用户场景中的表现。"
+  },
+  {
+    "companyName": "智谱AI",
+    "englishName": "Zhipu AI",
+    "countryOrRegion": "China",
+    "category": "基础模型",
+    "coreProduct": "GLM",
+    "researchStatus": "观察对象",
+    "updatedAt": "2026-06-03",
+    "officialWebsite": "",
+    "xiangbeiJudgment": "观察其在国产基础模型和企业服务中的持续演进。"
+  },
+  {
+    "companyName": "阿里通义",
+    "englishName": "Alibaba Tongyi",
+    "countryOrRegion": "China",
+    "category": "基础模型与云服务",
+    "coreProduct": "通义",
+    "researchStatus": "观察对象",
+    "updatedAt": "2026-06-03",
+    "officialWebsite": "",
+    "xiangbeiJudgment": "观察其与云计算、办公和企业生态结合的路径。"
+  },
+  {
+    "companyName": "百度文心",
+    "englishName": "Baidu Wenxin",
+    "countryOrRegion": "China",
+    "category": "基础模型与AI应用",
+    "coreProduct": "文心",
+    "researchStatus": "观察对象",
+    "updatedAt": "2026-06-03",
+    "officialWebsite": "",
+    "xiangbeiJudgment": "观察其在搜索、内容和企业AI应用中的结构性价值。"
+  },
+  {
+    "companyName": "腾讯混元",
+    "englishName": "Tencent Hunyuan",
+    "countryOrRegion": "China",
+    "category": "基础模型与生态应用",
+    "coreProduct": "混元",
+    "researchStatus": "观察对象",
+    "updatedAt": "2026-06-03",
+    "officialWebsite": "",
+    "xiangbeiJudgment": "观察其与社交、内容和企业服务生态的结合。"
+  },
+  {
+    "companyName": "字节豆包",
+    "englishName": "ByteDance Doubao",
+    "countryOrRegion": "China",
+    "category": "AI助手与应用",
+    "coreProduct": "豆包",
+    "researchStatus": "观察对象",
+    "updatedAt": "2026-06-03",
+    "officialWebsite": "",
+    "xiangbeiJudgment": "观察其在消费级AI助手和内容分发场景中的渗透。"
+  },
+  {
+    "companyName": "快手可灵",
+    "englishName": "Kuaishou Kling",
+    "countryOrRegion": "China",
+    "category": "AI视频生成",
+    "coreProduct": "可灵",
+    "researchStatus": "观察对象",
+    "updatedAt": "2026-06-03",
+    "officialWebsite": "",
+    "xiangbeiJudgment": "观察其在视频生成和短视频生态中的应用空间。"
+  },
+  {
+    "companyName": "生数科技 / Vidu",
+    "englishName": "Shengshu Technology / Vidu",
+    "countryOrRegion": "China",
+    "category": "AI视频生成",
+    "coreProduct": "Vidu",
+    "researchStatus": "观察对象",
+    "updatedAt": "2026-06-03",
+    "officialWebsite": "",
+    "xiangbeiJudgment": "观察其在视频生成模型和创作工具场景中的发展。"
+  },
+  {
+    "companyName": "ElevenLabs",
+    "englishName": "ElevenLabs",
+    "countryOrRegion": "United States",
+    "category": "AI语音",
+    "coreProduct": "ElevenLabs",
+    "researchStatus": "观察对象",
+    "updatedAt": "2026-06-03",
+    "officialWebsite": "",
+    "xiangbeiJudgment": "观察其在语音生成、配音和多语言内容生产中的角色。"
+  },
+  {
+    "companyName": "xAI",
+    "englishName": "xAI",
+    "countryOrRegion": "United States",
+    "category": "基础模型与AI助手",
+    "coreProduct": "Grok",
+    "researchStatus": "观察对象",
+    "updatedAt": "2026-06-03",
+    "officialWebsite": "",
+    "xiangbeiJudgment": "观察其与实时信息、社交平台和助手产品之间的关系。"
+  },
+  {
+    "companyName": "Notion AI",
+    "englishName": "Notion AI",
+    "countryOrRegion": "United States",
+    "category": "AI办公协作",
+    "coreProduct": "Notion AI",
+    "researchStatus": "观察对象",
+    "updatedAt": "2026-06-03",
+    "officialWebsite": "",
+    "xiangbeiJudgment": "观察其如何把AI能力嵌入知识管理和团队协作流程。"
+  },
+  {
+    "companyName": "Canva AI",
+    "englishName": "Canva AI",
+    "countryOrRegion": "Australia",
+    "category": "AI设计工具",
+    "coreProduct": "Canva AI",
+    "researchStatus": "观察对象",
+    "updatedAt": "2026-06-03",
+    "officialWebsite": "",
+    "xiangbeiJudgment": "观察其如何把生成式AI嵌入大众设计和内容生产。"
+  }
+]
+
